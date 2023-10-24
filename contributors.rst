@@ -1,4 +1,4 @@
-Contributors
+Авторы
 ============
 
 **Founder and project manager**
@@ -115,4 +115,4 @@ Volker Theile
 * Tony Guepin
 * Ian Grant
 
-More code contributers can be found `here <https://github.com/openmediavault/openmediavault/graphs/contributors>`_.
+Можно найти больше авторов кода `here <https://github.com/openmediavault/openmediavault/graphs/contributors>`_.
